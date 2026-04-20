@@ -1,0 +1,95 @@
+Added Component: Designator=Cout 3.3V 47uF(FP-GRM21B-0_2-e0_2_0_7-IPC_B)
+Add component (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=Cout 5V 47uF(FP-GRM21B-0_2-e0_2_0_7-IPC_B)
+Add component (AddParameter): Name = "Capacitance"; Value = "47uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X5R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "6.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C47uF1-N
+Added Pin To Net: NetName=GND Pin=C47uF2-N
+Added Pin To Net: NetName=GND Pin=C47uF3-N
+Added Pin To Net: NetName=GND Pin=C47uF4-N
+Added Pin To Net: NetName=GND Pin=C47uF5-N
+Added Pin To Net: NetName=GND Pin=Cin1-1
+Added Pin To Net: NetName=GND Pin=Cin2-1
+Added Pin To Net: NetName=GND Pin=Cin3-1
+Added Pin To Net: NetName=GND Pin=Cin4-1
+Added Pin To Net: NetName=GND Pin=Cout 3.3V 47uF-2
+Added Pin To Net: NetName=GND Pin=Cout 5V 47uF-2
+Added Pin To Net: NetName=GND Pin=J3.3V-2
+Added Pin To Net: NetName=GND Pin=J5V-2
+Added Pin To Net: NetName=GND Pin=J12V-2
+Added Pin To Net: NetName=GND Pin=Pin-2
+Added Pin To Net: NetName=GND Pin=RA3.3V-1
+Added Pin To Net: NetName=GND Pin=RA5V-1
+Added Pin To Net: NetName=GND Pin=RL3.3VB-1
+Added Pin To Net: NetName=GND Pin=RLoad5V-1
+Added Pin To Net: NetName=GND Pin=U3.3V-1
+Added Pin To Net: NetName=GND Pin=U5V-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC47uF1_P Pin=C47uF1-P
+Added Pin To Net: NetName=NetC47uF1_P Pin=C47uF2-P
+Added Pin To Net: NetName=NetC47uF1_P Pin=C47uF3-P
+Added Pin To Net: NetName=NetC47uF1_P Pin=Cin1-2
+Added Pin To Net: NetName=NetC47uF1_P Pin=Cin2-2
+Added Pin To Net: NetName=NetC47uF1_P Pin=Cin3-2
+Added Pin To Net: NetName=NetC47uF1_P Pin=Cin4-2
+Added Pin To Net: NetName=NetC47uF1_P Pin=J12V-1
+Added Pin To Net: NetName=NetC47uF1_P Pin=Pin-1
+Added Pin To Net: NetName=NetC47uF1_P Pin=U3.3V-3
+Added Pin To Net: NetName=NetC47uF1_P Pin=U3.3V-5
+Added Pin To Net: NetName=NetC47uF1_P Pin=U5V-3
+Added Pin To Net: NetName=NetC47uF1_P Pin=U5V-5
+Added Net: Name=NetC47uF1_P
+Added Pin To Net: NetName=NetC47uF4_P Pin=C47uF4-P
+Added Pin To Net: NetName=NetC47uF4_P Pin=Cout 5V 47uF-1
+Added Pin To Net: NetName=NetC47uF4_P Pin=J5V-1
+Added Pin To Net: NetName=NetC47uF4_P Pin=L5V-2
+Added Pin To Net: NetName=NetC47uF4_P Pin=RB5V-2
+Added Pin To Net: NetName=NetC47uF4_P Pin=RLoad5V-2
+Added Net: Name=NetC47uF4_P
+Added Pin To Net: NetName=NetC47uF5_P Pin=C47uF5-P
+Added Pin To Net: NetName=NetC47uF5_P Pin=Cout 3.3V 47uF-1
+Added Pin To Net: NetName=NetC47uF5_P Pin=J3.3V-1
+Added Pin To Net: NetName=NetC47uF5_P Pin=L3.3V-2
+Added Pin To Net: NetName=NetC47uF5_P Pin=RB3.3V-2
+Added Pin To Net: NetName=NetC47uF5_P Pin=RL3.3VA-2
+Added Net: Name=NetC47uF5_P
+Added Pin To Net: NetName=NetCB3.3V_1 Pin=CB3.3V-1
+Added Pin To Net: NetName=NetCB3.3V_1 Pin=U3.3V-6
+Added Net: Name=NetCB3.3V_1
+Added Pin To Net: NetName=NetCB3.3V_2 Pin=CB3.3V-2
+Added Pin To Net: NetName=NetCB3.3V_2 Pin=L3.3V-1
+Added Pin To Net: NetName=NetCB3.3V_2 Pin=U3.3V-2
+Added Net: Name=NetCB3.3V_2
+Added Pin To Net: NetName=NetCB5V_1 Pin=CB5V-1
+Added Pin To Net: NetName=NetCB5V_1 Pin=U5V-6
+Added Net: Name=NetCB5V_1
+Added Pin To Net: NetName=NetCB5V_2 Pin=CB5V-2
+Added Pin To Net: NetName=NetCB5V_2 Pin=L5V-1
+Added Pin To Net: NetName=NetCB5V_2 Pin=U5V-2
+Added Net: Name=NetCB5V_2
+Added Pin To Net: NetName=NetRA3.3V_2 Pin=RA3.3V-2
+Added Pin To Net: NetName=NetRA3.3V_2 Pin=RB3.3V-1
+Added Pin To Net: NetName=NetRA3.3V_2 Pin=U3.3V-4
+Added Net: Name=NetRA3.3V_2
+Added Pin To Net: NetName=NetRA5V_2 Pin=RA5V-2
+Added Pin To Net: NetName=NetRA5V_2 Pin=RB5V-1
+Added Pin To Net: NetName=NetRA5V_2 Pin=U5V-4
+Added Net: Name=NetRA5V_2
+Added Pin To Net: NetName=NetRL3.3VA_1 Pin=RL3.3VA-1
+Added Pin To Net: NetName=NetRL3.3VA_1 Pin=RL3.3VB-2
+Added Net: Name=NetRL3.3VA_1
+Added Class: Name=Power subsystem
+Added Rule: Name=Schematic Supply Nets

@@ -1,0 +1,22 @@
+Add component: Footprint Not Found K104K15X7RF5TL2_
+Added Pin To Net: NetName=NetJ6_6 Pin=B1-MCU-16
+Added Pin To Net: NetName=NetJ6_6 Pin=B1-MCU-24
+Added Pin To Net: NetName=NetJ6_5 Pin=B1-MCU-25
+Add Pin To Net: Unknown Pin: Pin C6-1
+Added Pin To Net: NetName=NetB1-MCU_3 Pin=R1M-EN-1
+Added Pin To Net: NetName=NetB1-MCU_3 Pin=R2M-IO-2
+Change Net Name : Old Net Name=NetJ6_5 New Net Name=NetB1-MCU_25
+Change Net Name : Old Net Name=NetJ6_6 New Net Name=NetB1-MCU_16
+Added Pin To Net: NetName=NetB1-MCU_9 Pin=B1-MCU-9
+Added Pin To Net: NetName=NetB1-MCU_9 Pin=U6-1
+Added Net: Name=NetB1-MCU_9
+Added Pin To Net: NetName=NetB1-MCU_10 Pin=B1-MCU-10
+Added Pin To Net: NetName=NetB1-MCU_10 Pin=U3-1
+Added Net: Name=NetB1-MCU_10
+Added Pin To Net: NetName=NetB1-MCU_20 Pin=B1-MCU-20
+Added Pin To Net: NetName=NetB1-MCU_20 Pin=U5-1
+Added Net: Name=NetB1-MCU_20
+Added Pin To Net: NetName=NetB1-MCU_21 Pin=B1-MCU-21
+Added Pin To Net: NetName=NetB1-MCU_21 Pin=U4-1
+Added Net: Name=NetB1-MCU_21
+Add Class Member: Failed to add class member : Component C6 0.1uf

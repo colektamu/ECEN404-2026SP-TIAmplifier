@@ -1,0 +1,68 @@
+Change Footprint: Footprint Not Found K104K15X7RF5TL2_
+Change Footprint: Footprint Not Found K104K15X7RF5TL2_
+Change Component Description : Designator=U3 Old Description=Digital Pot, 128 steps, SPI, single channel New Description=Digital Pot, 128 steps, SPI, single channel | Microchip Technology Inc. MCP4131T-103E/SN
+Add component: Footprint Not Found K104K15X7RF5TL2_
+Add component: Footprint Not Found CAP_X7RF5UH5_VIS
+Add component: Footprint Not Found CAP_K-SERIES_15-
+Add component: Footprint Not Found K104K15X7RF5TL2_
+Add component: Footprint Not Found K153K10X7RF5UH5_
+Add component: Footprint Not Found CAP_X7RF5UH5_VIS
+Add component: Footprint Not Found JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical
+Add component: Footprint Not Found JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-7
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Class Member: Failed to add class member : Component C2 100nf
+Add Class Member: Failed to add class member : Component C3 K222K10X7RF5UH5
+Add Class Member: Failed to add class member : Component C4 22pf
+Add Class Member: Failed to add class member : Component C6 0.1uf
+Add Class Member: Failed to add class member : Component C11 K153K10X7RF5UH5
+Add Class Member: Failed to add class member : Component C12 22nF
+Add Class Member: Failed to add class member : Component J1 Conn_01x02
+Add Class Member: Failed to add class member : Component J6 Conn_01x07
+Add Class Member: Failed to add class member : Component U4 MCP4131T-103E/SN
+Add Class Member: Failed to add class member : Component U5 MCP4131T-103E/SN
+Add Class Member: Failed to add class member : Component U6 MCP4131T-103E/SN
