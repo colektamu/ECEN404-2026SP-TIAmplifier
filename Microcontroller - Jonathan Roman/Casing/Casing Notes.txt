@@ -1,0 +1,2 @@
+Included in the folder is just the STL output files produced. For the actual design process, the software used was Fusion under a student license, with the repository itself available through the following link:
+https://a360.co/4tlYHgb
