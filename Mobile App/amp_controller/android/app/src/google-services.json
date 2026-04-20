@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1038025063957",
+    "project_id": "amp-controller-5b6e1",
+    "storage_bucket": "amp-controller-5b6e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038025063957:android:91ce47a46637d0448b581c",
+        "android_client_info": {
+          "package_name": "com.example.amp_controller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038025063957-i537nd78pbrfe6uoir6c2gsntdjqcgc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amp_controller",
+            "certificate_hash": "2058c5d7135a2a836e44d8a51a0a4b59ba60404d"
+          }
+        },
+        {
+          "client_id": "1038025063957-o1rsa3h02llubot0lb0hbhud1osq44du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5ppYUhotQ4lvYO09SF5DXqxSz1conmWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038025063957-o1rsa3h02llubot0lb0hbhud1osq44du.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038025063957-b2p82sqn53b9mmd1acooi4dp37d817cj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ampController"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
