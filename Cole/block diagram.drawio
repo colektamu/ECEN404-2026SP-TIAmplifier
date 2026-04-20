@@ -1,0 +1,108 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.5">
+  <diagram name="Page-1" id="6OFEKRfcHtyUZ7E8HWqk">
+    <mxGraphModel dx="918" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o90WVLLeif9JC9yxtQot-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-1" target="o90WVLLeif9JC9yxtQot-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-1" target="o90WVLLeif9JC9yxtQot-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-14" value="12 V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o90WVLLeif9JC9yxtQot-12">
+          <mxGeometry x="-0.7545" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-22" value="1.4 Vpp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o90WVLLeif9JC9yxtQot-12">
+          <mxGeometry x="0.7652" relative="1" as="geometry">
+            <mxPoint x="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-1" target="o90WVLLeif9JC9yxtQot-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-1" target="o90WVLLeif9JC9yxtQot-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-44" value="12 V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o90WVLLeif9JC9yxtQot-34">
+          <mxGeometry x="-0.2231" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-1" value="12V DC Power Adapter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-2" target="o90WVLLeif9JC9yxtQot-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-2" value="120V AC Wall Outlet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-7" value="3.3 V" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-4" target="o90WVLLeif9JC9yxtQot-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-4" value="3.3V Supply&lt;div&gt;(Buck Converter)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-40" value="SPI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-6" target="o90WVLLeif9JC9yxtQot-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-6" value="ESP32 MCU" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-8" value="Preamplification Stage" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="355" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-11" target="o90WVLLeif9JC9yxtQot-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-25" value="2.8Vpp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o90WVLLeif9JC9yxtQot-24">
+          <mxGeometry x="-0.15" y="-4" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-11" value="Power Amplifier" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-16" target="o90WVLLeif9JC9yxtQot-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-18" value="1.4 Vpp" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o90WVLLeif9JC9yxtQot-17">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-16" value="Line-Level&amp;nbsp;&lt;div&gt;Audio Signal&lt;/div&gt;&lt;div&gt;(Input)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-23" value="8 Ohm Speaker&lt;div&gt;(Output)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-26" target="o90WVLLeif9JC9yxtQot-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-32" value="5 V" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o90WVLLeif9JC9yxtQot-31">
+          <mxGeometry x="-0.0993" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-26" value="5V Supply&lt;div&gt;(Buck Converter)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o90WVLLeif9JC9yxtQot-30" target="o90WVLLeif9JC9yxtQot-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-41" value="Resistive" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="o90WVLLeif9JC9yxtQot-39">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o90WVLLeif9JC9yxtQot-30" value="Digital&lt;div&gt;Potentiometer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447.5" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

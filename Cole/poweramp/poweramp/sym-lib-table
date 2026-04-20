@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-10-20_13-32-43")(type "KiCad")(uri "/Users/colekeating/Documents/403 Capstone/poweramp/KiCADv6/2025-10-20_13-32-43.kicad_sym")(options "")(descr ""))
+  (lib (name "RCJ-017")(type "KiCad")(uri "/Users/colekeating/Documents/403 Capstone/poweramp/KiCADv6/RCJ-017/RCJ-017.kicad_sym")(options "")(descr ""))
+)

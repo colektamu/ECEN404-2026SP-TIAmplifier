@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2025-10-20T10:37:31-05:00*%
+%TF.ProjectId,preamp_better,70726561-6d70-45f6-9265-747465722e6b,0*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2025-10-20 10:37:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X53340000Y-43180000D02*
+X134620000Y-43180000D01*
+X134620000Y-111760000D01*
+X53340000Y-111760000D01*
+X53340000Y-43180000D01*
+M02*
