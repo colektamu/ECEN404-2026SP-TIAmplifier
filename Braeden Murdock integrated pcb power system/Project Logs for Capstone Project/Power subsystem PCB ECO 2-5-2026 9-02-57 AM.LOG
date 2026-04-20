@@ -1,0 +1,183 @@
+Removed Pin From Net: NetName=NetC47uF5_P Pin=U3-8
+Removed Pin From Net: NetName=NetC47uF5_P Pin=U4-8
+Removed Pin From Net: NetName=NetC47uF5_P Pin=U5-8
+Removed Pin From Net: NetName=NetC47uF5_P Pin=U6-8
+Added Component: Designator=B1-MCU(ESP32H2MINI1H2S)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://documentation.espressif.com/api/resource/doc/file/nzV9jBYD/FILE/esp32-h2-mini-1_mini-1u_datasheet_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "ESP32-H2-MINI-1-H2S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "2.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-H2-MINI-1-H2S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "ESP32-H2-MINI-1-H2S.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=C1M-P(CAPC3216X180X50NL20T25)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C2M-P(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3M-EN(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4M-EN(CAPC3216X180X20ML20)
+Add component (AddParameter): Name = "Capacitor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current (AC)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C5M-IO(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found K104K15X7RF5TL2_
+Added Component: Designator=J1M(SHDR2W70P0X500_1X2_1000X750X1150P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/components/products/download/691137710002+%28rev1%29.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/691137710002?qs=lBTPRtX1sU9LnHBbviNKGA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "691137710002.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=J2M(SHDR2W70P0X500_1X2_1000X750X1150P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/components/products/download/691137710002+%28rev1%29.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "11.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-691137710002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/691137710002?qs=lBTPRtX1sU9LnHBbviNKGA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "691137710002.SchLib"; VariantName = "[No Variations]"
+Add component: Footprint Not Found JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical
+Added Component: Designator=R1M-EN(RESC3216X60X45ML15T20)
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=R2M-IO(RESC3216X60X45ML15T20)
+Add component (AddParameter): Name = "Case/Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "250mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=X1M-EN(TS026643BK100LCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/TS02-66-43-BK-100-LCR-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TS02-66-43-BK-100-LCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-43-BK-100-LCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-TS026643BK100LCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Same-Sky/TS02-66-43-BK-100-LCR-D?qs=A6eO%252BMLsxmQKx8LKBmCQ6w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "TS02-66-43-BK-100-LCR-D.SchLib"; VariantName = "[No Variations]"
+Added Component: Designator=X2M-IO(TS026643BK100LCRD)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.sameskydevices.com/product/resource/TS02-66-43-BK-100-LCR-D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "TS02-66-43-BK-100-LCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Same Sky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TS02-66-43-BK-100-LCR-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "179-TS026643BK100LCR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Same-Sky/TS02-66-43-BK-100-LCR-D?qs=A6eO%252BMLsxmQKx8LKBmCQ6w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "TS02-66-43-BK-100-LCR-D.SchLib"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-MCU-1
+Added Pin To Net: NetName=GND Pin=B1-MCU-2
+Added Pin To Net: NetName=NetC47uF5_P Pin=B1-MCU-3
+Added Pin To Net: NetName=GND Pin=B1-MCU-36
+Added Pin To Net: NetName=GND Pin=B1-MCU-37
+Added Pin To Net: NetName=GND Pin=B1-MCU-38
+Added Pin To Net: NetName=GND Pin=B1-MCU-39
+Added Pin To Net: NetName=GND Pin=B1-MCU-40
+Added Pin To Net: NetName=GND Pin=B1-MCU-41
+Added Pin To Net: NetName=GND Pin=B1-MCU-42
+Added Pin To Net: NetName=GND Pin=B1-MCU-43
+Added Pin To Net: NetName=GND Pin=B1-MCU-44
+Added Pin To Net: NetName=GND Pin=B1-MCU-45
+Added Pin To Net: NetName=GND Pin=B1-MCU-46
+Added Pin To Net: NetName=GND Pin=B1-MCU-47
+Added Pin To Net: NetName=GND Pin=B1-MCU-48
+Added Pin To Net: NetName=GND Pin=B1-MCU-49
+Added Pin To Net: NetName=GND Pin=B1-MCU-50
+Added Pin To Net: NetName=GND Pin=B1-MCU-51
+Added Pin To Net: NetName=GND Pin=B1-MCU-52
+Added Pin To Net: NetName=GND Pin=B1-MCU-53
+Added Pin To Net: NetName=GND Pin=B1-MCU-54
+Added Pin To Net: NetName=GND Pin=B1-MCU-55
+Added Pin To Net: NetName=GND Pin=B1-MCU-56
+Added Pin To Net: NetName=GND Pin=B1-MCU-57
+Added Pin To Net: NetName=GND Pin=B1-MCU-58
+Added Pin To Net: NetName=GND Pin=B1-MCU-59
+Added Pin To Net: NetName=GND Pin=B1-MCU-60
+Added Pin To Net: NetName=GND Pin=B1-MCU-61
+Added Pin To Net: NetName=NetC47uF5_P Pin=C1M-P-1
+Added Pin To Net: NetName=GND Pin=C1M-P-2
+Added Pin To Net: NetName=GND Pin=C2M-P-N
+Added Pin To Net: NetName=NetC47uF5_P Pin=C2M-P-P
+Added Pin To Net: NetName=GND Pin=C3M-EN-N
+Added Pin To Net: NetName=GND Pin=C4M-EN-2
+Added Pin To Net: NetName=GND Pin=C5M-IO-N
+Add Pin To Net: Unknown Pin: Pin C6-1
+Added Pin To Net: NetName=GND Pin=J1M-2
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-7
+Added Pin To Net: NetName=NetC47uF4_P Pin=U3-8
+Added Pin To Net: NetName=NetC47uF4_P Pin=U4-8
+Added Pin To Net: NetName=NetC47uF4_P Pin=U5-8
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=NetC47uF4_P Pin=U6-8
+Added Pin To Net: NetName=GND Pin=X1M-EN-1
+Added Pin To Net: NetName=GND Pin=X2M-IO-1
+Change Net Name : Old Net Name=NetC47uF5_P New Net Name=NetB1-MCU_3
+Added Pin To Net: NetName=NetB1-MCU_8 Pin=B1-MCU-8
+Added Pin To Net: NetName=NetB1-MCU_8 Pin=C3M-EN-P
+Added Pin To Net: NetName=NetB1-MCU_8 Pin=C4M-EN-1
+Added Pin To Net: NetName=NetB1-MCU_8 Pin=R1M-EN-2
+Added Pin To Net: NetName=NetB1-MCU_8 Pin=X1M-EN-4
+Added Net: Name=NetB1-MCU_8
+Added Pin To Net: NetName=NetB1-MCU_22 Pin=B1-MCU-22
+Added Pin To Net: NetName=NetB1-MCU_22 Pin=R2M-IO-1
+Added Net: Name=NetB1-MCU_22
+Added Pin To Net: NetName=NetB1-MCU_23 Pin=B1-MCU-23
+Added Pin To Net: NetName=NetB1-MCU_23 Pin=C5M-IO-P
+Added Pin To Net: NetName=NetB1-MCU_23 Pin=X2M-IO-4
+Added Net: Name=NetB1-MCU_23
+Added Pin To Net: NetName=NetB1-MCU_30 Pin=B1-MCU-30
+Added Pin To Net: NetName=NetB1-MCU_30 Pin=J2M-1
+Added Net: Name=NetB1-MCU_30
+Added Pin To Net: NetName=NetB1-MCU_31 Pin=B1-MCU-31
+Added Pin To Net: NetName=NetB1-MCU_31 Pin=J2M-2
+Added Net: Name=NetB1-MCU_31
+Added Pin To Net: NetName=NetR1M-EN_1 Pin=R1M-EN-1
+Added Pin To Net: NetName=NetR1M-EN_1 Pin=R2M-IO-2
+Added Net: Name=NetR1M-EN_1
+Added Class: Name=mcu subsystem
+Add Class Member: Failed to add class member : Component C6 0.1uf
+Add Class Member: Failed to add class member : Component J6 Conn_01x07

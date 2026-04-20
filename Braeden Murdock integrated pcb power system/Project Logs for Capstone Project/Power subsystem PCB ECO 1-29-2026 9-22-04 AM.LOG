@@ -1,0 +1,54 @@
+Add component: Footprint Not Found K104K15X7RF5TL2_
+Add component: Footprint Not Found JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical
+Added Component: Designator=U4(SOIC-SN8_N)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.microchip.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/22060b.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.microchip.com/stellent/groups/techpub_sg/documents/packagingspec/en012702.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "revB, Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead Plastic Small Outline (SN) - Narrow, 3.90mm Body [SOIC]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOIC-SN8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revBB, Aug-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RevisionNote"; Value = "URLs added."; VariantName = "[No Variations]"
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-7
+Added Pin To Net: NetName=NetJ6_2 Pin=U4-1
+Added Pin To Net: NetName=NetJ6_5 Pin=U4-2
+Added Pin To Net: NetName=NetJ6_6 Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetR4_2 Pin=U4-5
+Added Pin To Net: NetName=NetC3_P Pin=U4-6
+Added Pin To Net: NetName=NetR8_2 Pin=U4-7
+Added Pin To Net: NetName=NetC47uF5_P Pin=U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-7
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Class Member: Failed to add class member : Component C6 0.1uf
+Add Class Member: Failed to add class member : Component J6 Conn_01x07
+Added Member To Class: ClassName=preamp_with_digital_pot Member=Component U4 MCP4131T-103E/SN
+Add Class Member: Failed to add class member : Component U5 MCP4131T-103E/SN
+Add Class Member: Failed to add class member : Component U6 MCP4131T-103E/SN

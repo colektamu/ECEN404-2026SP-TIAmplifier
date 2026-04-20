@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=NetC9_2 Pin=C9-2
+Change Component Footprint: Designator=C8 Old Footprint=FP-C0603C-CF-MFG New Footprint=*CAPPRD200W50D500H1100_EEUFR1E470(Primary)
+Change Component Footprint: Designator=C9 Old Footprint=FP-C0603C-CF-MFG New Footprint=*CAPPRD200W50D500H1100_EEUFR1E470(Primary)
+Change component parameters: Designator = "C8" ("C8"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\XJYNXJPP" ("\XJYNXJPP")
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "FP-C0603C-CF-MFG"; UniqueID = "\BBBSPZPI" ("\BBBSPZPI")
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found K104K15X7RF5TL2_
+Added Component: Designator=C11(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(*CAPPRD200W50D500H1100_EEUFR1E470(Primary))
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found JST_EH_B7B-EH-A_1x07_P2.50mm_Vertical
+Added Component: Designator=Jamp(691137710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Add component: Footprint Not Found *SOIC127P600X175-8N
+Added Pin To Net: NetName=NetC4_2 Pin=C4-N
+Added Pin To Net: NetName=NetC4_1 Pin=C4-P
+Add Pin To Net: Unknown Pin: Pin C6-1
+Added Pin To Net: NetName=GND Pin=C8-N
+Added Pin To Net: NetName=NetC5_1 Pin=C8-P
+Added Pin To Net: NetName=GND Pin=C9-N
+Added Pin To Net: NetName=NetC9_2 Pin=C9-P
+Added Pin To Net: NetName=NetC12_2 Pin=C12-N
+Add Pin To Net: Unknown Pin: Pin J6-1
+Add Pin To Net: Unknown Pin: Pin J6-2
+Add Pin To Net: Unknown Pin: Pin J6-3
+Add Pin To Net: Unknown Pin: Pin J6-4
+Add Pin To Net: Unknown Pin: Pin J6-5
+Add Pin To Net: Unknown Pin: Pin J6-6
+Add Pin To Net: Unknown Pin: Pin J6-7
+Added Pin To Net: NetName=GND Pin=Jamp-2
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-4
+Add Pin To Net: Unknown Pin: Pin U5-8
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-8
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC4_P
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC4_N
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC9_P
+Change Net Name : Old Net Name=NetC12_2 New Net Name=NetC12_N
+Added Pin To Net: NetName=NetC2_N Pin=C2-N
+Added Pin To Net: NetName=NetC2_N Pin=R7-1
+Added Pin To Net: NetName=NetC2_N Pin=U3-5
+Added Net: Name=NetC2_N
+Added Pin To Net: NetName=NetC2_P Pin=C2-P
+Added Pin To Net: NetName=NetC2_P Pin=R3-1
+Added Pin To Net: NetName=NetC2_P Pin=U3-7
+Added Net: Name=NetC2_P
+Added Pin To Net: NetName=NetC3_N Pin=C3-N
+Added Pin To Net: NetName=NetC3_N Pin=R6-1
+Added Net: Name=NetC3_N
+Added Pin To Net: NetName=NetC3_P Pin=C3-P
+Added Net: Name=NetC3_P
+Added Pin To Net: NetName=NetC11_N Pin=C11-N
+Added Pin To Net: NetName=NetC11_N Pin=R11-2
+Added Net: Name=NetC11_N
+Added Pin To Net: NetName=NetC11_P Pin=C11-P
+Added Pin To Net: NetName=NetC11_P Pin=R13-2
+Added Net: Name=NetC11_P
+Added Pin To Net: NetName=NetC12_P Pin=C12-P
+Added Net: Name=NetC12_P
+Added Pin To Net: NetName=NetJamp_1 Pin=Jamp-1
+Added Net: Name=NetJamp_1
+Added Member To Class: ClassName=preamp_with_digital_pot Member=Component C2 100nF
+Added Member To Class: ClassName=preamp_with_digital_pot Member=Component C3 2.2nF
+Added Member To Class: ClassName=preamp_with_digital_pot Member=Component C4 22pF
+Add Class Member: Failed to add class member : Component C6 0.1uf
+Added Member To Class: ClassName=preamp_with_digital_pot Member=Component C11 15nF
+Added Member To Class: ClassName=preamp_with_digital_pot Member=Component C12 22nF
+Add Class Member: Failed to add class member : Component J6 Conn_01x07
+Added Member To Class: ClassName=preamp_with_digital_pot Member=Component Jamp 691137710002
+Add Class Member: Failed to add class member : Component U4 MCP4131T-103E/SN
+Add Class Member: Failed to add class member : Component U5 MCP4131T-103E/SN
+Add Class Member: Failed to add class member : Component U6 MCP4131T-103E/SN

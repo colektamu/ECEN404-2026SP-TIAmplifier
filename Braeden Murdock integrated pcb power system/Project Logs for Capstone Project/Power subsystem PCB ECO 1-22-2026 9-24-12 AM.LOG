@@ -1,0 +1,62 @@
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-36
+Add Pin To Net: Unknown Pin: Pin U1-37
+Add Pin To Net: Unknown Pin: Pin U1-38
+Add Pin To Net: Unknown Pin: Pin U1-39
+Add Pin To Net: Unknown Pin: Pin U1-40
+Add Pin To Net: Unknown Pin: Pin U1-41
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-43
+Add Pin To Net: Unknown Pin: Pin U1-44
+Add Pin To Net: Unknown Pin: Pin U1-45
+Add Pin To Net: Unknown Pin: Pin U1-46
+Add Pin To Net: Unknown Pin: Pin U1-47
+Add Pin To Net: Unknown Pin: Pin U1-48
+Add Pin To Net: Unknown Pin: Pin U1-49_1
+Add Pin To Net: Unknown Pin: Pin U1-49_2
+Add Pin To Net: Unknown Pin: Pin U1-49_3
+Add Pin To Net: Unknown Pin: Pin U1-49_4
+Add Pin To Net: Unknown Pin: Pin U1-49_5
+Add Pin To Net: Unknown Pin: Pin U1-49_6
+Add Pin To Net: Unknown Pin: Pin U1-49_7
+Add Pin To Net: Unknown Pin: Pin U1-49_8
+Add Pin To Net: Unknown Pin: Pin U1-49_9
+Add Pin To Net: Unknown Pin: Pin U1-50
+Add Pin To Net: Unknown Pin: Pin U1-51
+Add Pin To Net: Unknown Pin: Pin U1-52
+Add Pin To Net: Unknown Pin: Pin U1-53
+Added Net: Name=NetC1_1
+Added Net: Name=NetC2_1
+Added Net: Name=NetC4_2
+Added Net: Name=NetJ2_1
+Added Net: Name=NetJ2_2
+Added Net: Name=NetJ3_1
+Added Net: Name=NetJ3_2
+Added Net: Name=NetJ3_3
+Added Net: Name=NetJ3_4
+Added Net: Name=NetJ3_5
+Added Net: Name=NetJ3_6
+Added Net: Name=NetJ3_7
+Added Net: Name=NetJ4_1
+Added Net: Name=NetJ4_2
+Added Net: Name=NetJ4_3
+Added Net: Name=NetJ4_4
+Added Net: Name=NetJ4_5
+Added Net: Name=NetJ4_6
+Added Net: Name=NetJ4_7
+Added Net: Name=NetU1_4
+Added Net: Name=NetU1_26
+Added Net: Name=NetU1_27
+Added Class: Name=capstone_1

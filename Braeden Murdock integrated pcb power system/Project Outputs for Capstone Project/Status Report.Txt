@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Capstone Project.PrjPcb]
+   Generated File[Power subsystem-RoundHoles.TXT]
+   Generated File[Power subsystem-SlotHoles.TXT]
+   Generated File[Power subsystem-RectHoles.TXT]
+   Generated File[Power subsystem.LDP]
+   Generated File[Power subsystem.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 3:10:37 PM On 2/9/2026
